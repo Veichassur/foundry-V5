@@ -283,7 +283,8 @@
           "powers": [],
           "visible": false
         }
-      }
+      },
+      "customRolls" : []
     }
   },
   "Item": {
